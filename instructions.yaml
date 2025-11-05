@@ -1,0 +1,7 @@
+compose instructions:
+  instruction:
+    - requirements 을 달성하기 위한 주요 instructions 을 작성한다.
+
+init file_structure:
+  instruction:
+    - 주요 file structure 를 작성한다.
